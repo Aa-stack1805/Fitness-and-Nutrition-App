@@ -128,9 +128,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - API Ninjas for the nutrition data API
 - Tkinter documentation and community
 - Python SQLite documentation
-
-### Food Diary
-![Food Diary](https://via.placeholder.com/400x300?text=Food+Diary)
-
-### Profile
-![Profile](https://via.placeholder.com/400x300?text=Profile)
