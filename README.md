@@ -2,8 +2,6 @@
 
 A comprehensive fitness and nutrition tracking application built with Python and Tkinter.
 
-![Fitness Tracker App](https://via.placeholder.com/800x400?text=Fitness+Tracker+App)
-
 ## Features
 
 ### Login System
@@ -130,19 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - API Ninjas for the nutrition data API
 - Tkinter documentation and community
 - Python SQLite documentation
-
----
-
-## Screenshots
-
-### Login Screen
-![Login Screen](https://via.placeholder.com/400x300?text=Login+Screen)
-
-### Menu
-![Menu](https://via.placeholder.com/400x300?text=Menu)
-
-### Workout Tracker
-![Workout Tracker](https://via.placeholder.com/400x300?text=Workout+Tracker)
 
 ### Food Diary
 ![Food Diary](https://via.placeholder.com/400x300?text=Food+Diary)
